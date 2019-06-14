@@ -10,4 +10,4 @@ Please switch branches or check out our releases for this repo to find the requi
 
 Need a Panther Web 551 Redhat Image? [Click Here](https://hub.docker.com/r/prolificspanther)
 
-Contact support@prolifics.com for a 45 day license.
+[Click Here](https://www.prolifics.com/panther-trial-license-request) for a 45 day license.
