@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE web-app PUBLIC "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN" "http://java.sun.com/dtd/web-app_2_3.dtd">
+<!-- @(#)web.xml	77.3 19/01/29 11:48:12 -->
+<web-app id="WebApp_ID">
+	<servlet id="PantherServlet">
+		<servlet-name>Panther Access Servlet</servlet-name>
+		<display-name>Panther Access Servlet</display-name>
+		<description>Panther Access Servlet</description>
+		<servlet-class>com.prolifics.servlet.ProlificsHttpServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>Panther Access Servlet</servlet-name>
+		<url-pattern>/*</url-pattern>
+	</servlet-mapping>
+</web-app>
+
