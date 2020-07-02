@@ -1,4 +1,4 @@
-# PantherWeb
+# ConfigurePantherWeb
 
 There are two branches in this repository named as following:-
 
